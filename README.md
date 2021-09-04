@@ -6,4 +6,4 @@ The task was to predict the type of Metabolic syndrome given different features 
 Made a total of 19 submissions.
 Have a look at the [Leaderboard](https://www.kaggle.com/c/dataprix21/leaderboard)
 
-![image](images/Snap.jpg)
+![image](images/Snap.png)
