@@ -8,4 +8,4 @@ Have a look at the [Leaderboard](https://www.kaggle.com/c/dataprix21/leaderboard
 
 ![image](images/Snap.png)
 
-The file paths in pd.read_csv() might have messed up. Althought I have corrected them for the notebooks folder the submissions folder paths are not updated.
+The file paths in pd.read_csv('filepath') might have messed up. Althought I have corrected them for the notebooks folder the submissions folder paths are not updated.
